@@ -6,9 +6,9 @@ Netcrowd is a Netlogo multi-agent-based micro-task crowdsourcing platform simula
 
 ## Using the Platform
 
-1. Download NetLogo from: https://ccl.northwestern.edu/netlogo/
-2. Download netcrowd's source code from GitHub
-3. Run the source code directly from NetLogo
+1. Download NetLogo from: https://ccl.northwestern.edu/netlogo/.
+2. Download netcrowd's source code from GitHub.
+3. Run the source code directly from NetLogo.
 
 ## Using the Web
 
