@@ -1,6 +1,6 @@
 # Netcrowd
 
-Netcrowd is a Netlogo multi-agent-based simulator of a micro-task crowdsourcing platform. This simulator was presented in the 16th International Conference on Information Systems and Technology Management on May 29, 2019, in São Paulo, Brazil. Any contribution after the conference is welcome!
+Netcrowd is a Netlogo multi-agent-based simulator of a microtask crowdsourcing platform. This simulator was presented in the 16th International Conference on Information Systems and Technology Management on May 29, 2019, in São Paulo, Brazil. Any contribution after the conference is welcome!
 
 # How to Make It Work?
 
@@ -20,5 +20,5 @@ Have fun!
 
 # How to Cite this Source Code (APA Style)
 
-Bertassi, E (2019) Netcrowd - A Multi-Agent-Based Simulator of a Micro-Task Crowdsourcing Platform (Version 1.0) [Source Code]. Retrieved from https://github.com/bertassi/netcrowd.
+Bertassi, E (2019) Netcrowd - A Multi-Agent-Based Simulator of a Microtask Crowdsourcing Platform (Version 1.0) [Source Code]. Retrieved from https://github.com/bertassi/netcrowd.
 
