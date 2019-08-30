@@ -20,5 +20,5 @@ Have fun!
 
 # How to Cite this Source Code (APA Style)
 
-Bertassi, E (2019) Netcrowd - A Multi-Agent-Based Simulator of a Microtask Crowdsourcing Platform (Version 1.0) [Source Code]. Retrieved from https://github.com/bertassi/netcrowd.
+Bertassi, E. (2019) Netcrowd - A Multiagent-Based Simulator of a Microtask Crowdsourcing Platform (Version 1.0) [Source Code]. Retrieved from https://github.com/bertassi/netcrowd.
 
